@@ -9,7 +9,7 @@
   "dependencies": {
     "@react-native-community/netinfo": "^4.2.1",
     "firebase": "^6.6.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "16.8.3",
     "react-native": "0.59.5",
     "react-native-audio": "^4.3.0",
